@@ -10,11 +10,11 @@ Text Domain: custom
 */
 
 @charset "UTF-8";
-@import url("css/clear.css");
-@import url("css/font-awesome.min.css");
-@import url("css/sm-clean.css");
-@import url("css/swiper.min.css");
-@import url("css/common.css");
+@import url("https://the20minuteman.github.io/two/wp-content/themes/two/css/clear.css");
+@import url("https://the20minuteman.github.io/two/wp-content/themes/two/css/font-awesome.min.css");
+@import url("https://the20minuteman.github.io/two/wp-content/themes/two/css/sm-clean.css");
+@import url("https://the20minuteman.github.io/two/wp-content/themes/two/css/swiper.min.css");
+@import url("https://the20minuteman.github.io/two/wp-content/themes/two/css/common.css");
 
 
 /*menu*/
